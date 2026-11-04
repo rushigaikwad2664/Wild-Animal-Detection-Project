@@ -9,11 +9,12 @@ AI-powered Wild Animal Detection System using Python, YOLOv8, OpenCV, and Deep L
 Real-time wildlife detection with a live web dashboard, user login, instant alarm and phone alerts, built to reduce human-wildlife conflict in farms, villages and forest-border areas.
 
 ![Python](https://img.shields.io/badge/Python-3.10--3.12-3776AB?logo=python&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-Ultralytics-00FFFF)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-000000?logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Alerts-Telegram%20%7C%20WhatsApp%20%7C%20SMS-26A5E4?logo=telegram&logoColor=white)
+
 
 [🎥 Demo Video](#-demo) · [✨ Features](#-features) · [🚀 Quick Start](#-quick-start) · [🏗️ How It Works](#️-how-it-works)
 
