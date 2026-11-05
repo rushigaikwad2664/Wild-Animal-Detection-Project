@@ -1,0 +1,24 @@
+path: C:/3.WILD LIFE/new_dataset
+
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 15
+
+names:
+  - Caterpillar
+  - Cow
+  - Crow
+  - Elephant
+  - Goat
+  - Horse
+  - Lion
+  - Tiger
+  - Leopard
+  - Bear
+  - Wolf
+  - Deer
+  - Fox
+  - Snake
+  - Bird
